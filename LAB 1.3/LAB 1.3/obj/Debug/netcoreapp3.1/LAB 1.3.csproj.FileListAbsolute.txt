@@ -1,0 +1,13 @@
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\bin\Debug\netcoreapp3.1\LAB 1.3.exe
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\bin\Debug\netcoreapp3.1\LAB 1.3.deps.json
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\bin\Debug\netcoreapp3.1\LAB 1.3.runtimeconfig.json
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\bin\Debug\netcoreapp3.1\LAB 1.3.runtimeconfig.dev.json
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\bin\Debug\netcoreapp3.1\LAB 1.3.dll
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\bin\Debug\netcoreapp3.1\LAB 1.3.pdb
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\obj\Debug\netcoreapp3.1\LAB 1.3.csprojAssemblyReference.cache
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\obj\Debug\netcoreapp3.1\LAB 1.3.AssemblyInfoInputs.cache
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\obj\Debug\netcoreapp3.1\LAB 1.3.AssemblyInfo.cs
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\obj\Debug\netcoreapp3.1\LAB 1.3.csproj.CoreCompileInputs.cache
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\obj\Debug\netcoreapp3.1\LAB 1.3.dll
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\obj\Debug\netcoreapp3.1\LAB 1.3.pdb
+C:\Users\turon\OneDrive\Рабочий стол\LNU_C#\LAB 1.3\LAB 1.3\obj\Debug\netcoreapp3.1\LAB 1.3.genruntimeconfig.cache
